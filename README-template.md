@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Ah-Essam/social-links-profile-main)
-- Live Site URL: [Add live site URL here](https://social-links-profile-main-mauve.vercel.app/)
+- Solution URL: [solution URL](https://github.com/Ah-Essam/social-links-profile-main)
+- Live Site URL: [live site URL](https://social-links-profile-main-mauve.vercel.app/)
 
 ## My process
 
